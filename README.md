@@ -1,5 +1,5 @@
 <div align="center">
-  
+   ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/autofix)
   <br/>
   <br/>
 
@@ -24,7 +24,7 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Volti** locally, run this command on your git bash:
+To run **navbar-responsive** locally, run this command on your git bash:
 
 Linux and macOS:
 
