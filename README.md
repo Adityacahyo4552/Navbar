@@ -16,4 +16,4 @@
 
 ![Volti Desktop Demo](./readme-images/### Demo Screeshots
 
-![Volti Desktop Demo](./readme-images/desktop.png "Desktop Demo").png "Desktop Demo")
+![Volti Desktop Demo](./readme-images/Pref-Desktop.png "Desktop Demo").png "Desktop Demo")
