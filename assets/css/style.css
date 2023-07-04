@@ -64,20 +64,21 @@ nav .nav-bar .sidebarOpen {
   display: none;
 }
 
-nav .nav-bar .logo {
-  width: 50px;
-  height: 50px;
+nav .nav-bar .logo a {
+  font-size: 24px;
+  font-weight: 600;
+  color: var(--text-color);
   text-shadow: 3px 1px 1px #010718;
   justify-content: center;
   text-decoration: none;
 }
 
-/* nav .nav-bar img .logo {
-  width: 10px;
-  height: 10px;
+nav .nav-bar .logo i {
+  font-size: 30px;
+  justify-content: center;
   color: var(--main-color);
   text-decoration: none;
-} */
+}
 
 .menu .logo-toggle {
   display: none;
