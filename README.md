@@ -7,7 +7,7 @@
   
   navbar-responsive is a fully responsive navbar website, <br/>Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="#"><strong>~ Live Demo ~</strong></a>
+  <a href="https://adityacahyo4552.github.io/navbar-responsive/"><strong>~ Live Demo ~</strong></a>
 </div>
 
 <br />
