@@ -64,18 +64,20 @@ nav .nav-bar .sidebarOpen {
   display: none;
 }
 
-nav .nav-bar .logo a {
-  font-size: 20px;
-  font-weight: 600;
-  color: var(--text-color);
+nav .nav-bar .logo {
+  width: 50px;
+  height: 50px;
+  text-shadow: 3px 1px 1px #010718;
+  justify-content: center;
   text-decoration: none;
 }
 
-nav .nav-bar .logo i {
-  font-size: 25px;
+/* nav .nav-bar img .logo {
+  width: 10px;
+  height: 10px;
   color: var(--main-color);
   text-decoration: none;
-}
+} */
 
 .menu .logo-toggle {
   display: none;
@@ -256,7 +258,7 @@ body.dark .search-field {
     left: 0%;
   }
 
-  nav.active .nav-bar .navLogo a {
+  nav.active .nav-bar .navLogo {
     opacity: 0;
     transition: all 0.3s ease;
   }
