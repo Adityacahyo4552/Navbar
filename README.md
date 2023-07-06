@@ -14,7 +14,7 @@
 
 ### Demo Screenshot
 
-![navbar-responsive Desktop Demo](./readme-images/Prev-Desktop.png "Desktop Demo")
+![navbar-responsive Desktop Demo](./readme-images/Prev-Desktop.pn "Desktop Demo")
 
 ### Prerequisites
 
